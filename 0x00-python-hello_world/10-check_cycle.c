@@ -1,11 +1,9 @@
 #include "lists.h"
-
 /**
  * check_cycle - checks if a singly linked list has a cycle
  * @list: pointer to the head of the list
  * Return: 0 in case of no cycle and 1 at the opposite
  */
-
 int check_cycle(listint_t *list)
 {
 listint_t *p2;
