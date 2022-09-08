@@ -1,4 +1,4 @@
--- creates a table called first_table in the current databse in your MySQL server.
+-- creates a table called first_table in the current database in your MySQL server.
 -- The database name will br passed as an argument of the mysql command
 -- fist_table description:
 --            id INT
