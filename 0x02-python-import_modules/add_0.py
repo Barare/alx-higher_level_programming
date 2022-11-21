@@ -1,10 +1,10 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 def add(a, b):
-    """My additton function
+    """My addition function
     Args:
     a: first integer
     b: second integer
     Returns:
-    The retrun value. a + b
+    The return value. a + b
     """
     return (a + b)
